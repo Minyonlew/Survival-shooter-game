@@ -2,7 +2,7 @@
 
 #### 1、创建场景
 
-![01](C:\Users\Minyon\Desktop\gitdemo\First\01.jpg)
+![01](https://github.com/Minyonlew/Survival-shooter-game/blob/master/Development%20of%20Survival_Shoot_Game(one)/01.png)
 
 
 
