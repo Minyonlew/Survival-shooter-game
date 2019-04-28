@@ -1,0 +1,14 @@
+﻿1.创建一个新的 scene
+2.引入素材包
+3.将素材包里的Environment预设 拖进 Hierarchy ->加入背景素材。
+4.将素材包里的Lights预设 拖进 Hierarchy ->加入照亮素材
+5.-选项GameObject->3D Object-> 创建一个Quad（方形平面）
+  -设置参数 Position(0,0,0) Rotation(90,0,0) Scale(100,100,1)
+  -目的是使这个平面覆盖到整个地板
+  -重命名Quad为Floor
+  -通过调整 Mesh Collider -> Rmove Component 从而将平面隐藏
+  -接着将 layer->Floor  将其选择为分离层
+6.-GameObject -> Create Empty  创建一个新的预设 用来存放背景音乐
+  -添加一个Component组件Audio Source 来关联背景音乐
+  -添加背景音乐 BackgroundMusic
+  -将音乐设置为loop 循环播放 

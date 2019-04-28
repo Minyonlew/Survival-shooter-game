@@ -1,0 +1,16 @@
+﻿1.建立git目录
+	-先进入目录 cd xxx
+	-git init  初始化仓库
+2.添加要上传的文件
+	-git add xxx.xxx
+	-检查状态 git status
+3.关联远程仓库
+	-git remote add origin git@github.com:Minyonlew/Survival-shooter-game.git
+4.将文件推上远程仓库
+	-如果是第一次推，那么需要先将远程仓库的东西pull下来
+	-(正常) git pull origin master
+	-(失败) git pull origin master -- allow-nurelated-histories
+	-成功pull后
+	-推文件 git push origin master
+5.几个文件一起推 但有些文件不想推  方法如下
+	-在 文件 ： .gitignore 里 添加文件名（不想推上去的 文件 的文件名）
