@@ -1,4 +1,8 @@
 # Survival-Shooter-Game
-Development of game
 
-－First step ： Development of Survival-Shooter-Game(one)　　　　　　#　done!　＃
+
+![01](C:\Users\Minyon\Desktop\01.PNG)
+
+
+
+![02](C:\Users\Minyon\Desktop\02.PNG)
