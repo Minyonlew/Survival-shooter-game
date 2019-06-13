@@ -1,8 +1,8 @@
 # Survival-Shooter-Game
 
 
-![01](C:\Users\Minyon\Desktop\01.PNG)
+![01](https://github.com/Minyonlew/Survival-shooter-game/blob/master/01.PNG)
 
 
 
-![02](C:\Users\Minyon\Desktop\02.PNG)
+![02](https://github.com/Minyonlew/Survival-shooter-game/blob/master/02.PNG)
