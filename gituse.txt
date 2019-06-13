@@ -4,6 +4,7 @@
 2.添加要上传的文件
 	-git add xxx.xxx
 	-检查状态 git status
+	-提交 git commit -m"xxx"
 3.关联远程仓库
 	-git remote add origin git@github.com:Minyonlew/Survival-shooter-game.git
 4.将文件推上远程仓库
