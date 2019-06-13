@@ -9,7 +9,7 @@
 4.将文件推上远程仓库
 	-如果是第一次推，那么需要先将远程仓库的东西pull下来
 	-(正常) git pull origin master
-	-(失败) git pull origin master -- allow-nurelated-histories
+	-(失败) git pull origin master -- allow-unrelated-histories
 	-成功pull后
 	-推文件 git push origin master
 5.几个文件一起推 但有些文件不想推  方法如下
